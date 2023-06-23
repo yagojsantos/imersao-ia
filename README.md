@@ -26,4 +26,13 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
     🤖
     <p>"Na primeira rodada do nosso jogo de adivinhação, fui desafiado a descobrir a palavra oculta. Com a pista inicial de um objeto cheio de cabos, comecei a deduzir e conjecturar. Após algumas tentativas, minha intuição apontou para a possibilidade de ser um roteador de rede. Emocionante e envolvente, a jornada de deduções culminou com a confirmação da minha resposta correta. A alegria de acertar a palavra "roteador" fez com que eu ansiasse por mais desafios e aventuras no jogo."</p>
   </div>
+  <hr>
+   <p><strong>Jogo de adivinhação de filmes: </strong>Escolha um dos seus filmes favoritos e sugira ao ChatGPT que faça perguntas sobre a trama, os personagens, o gênero do filme ou a sua data de lançamento para tentar adivinhar qual é o nome do filme que você escolheu. O objetivo do jogo é que o ChatGPT adivinhe o nome do filme com o menor número possível de perguntas.</p>
+   <div><img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/ae1880d7-1eba-43bb-a617-cec3b2d0cd6d" width="100%"></div>
+    <p><strong>Minhas impressões: </strong>Escolhi um dos meus filmes favoritos que considero como um clássico, "O Máscara". O chat acertou na primeira tentativa.</p>
+      <p>Como dica, informei um pouco do enredo da seguinte forma: </p>
+      <div>
+        👨
+        <p>É um filme antigo sobre a vida de um cara que trabalha em um banco, com uma vida meio triste. Todos à sua volta, parecem tentar tirar proveito. A situação dele muda quando, ao tentar salvar o que ele pensa ser uma pessoa se afogando, encontra um objeto brilhando que lhe fornece poderes.</p>
+      </div>
 </div>
