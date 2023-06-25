@@ -35,16 +35,28 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
         👨
         <p>É um filme antigo sobre a vida de um cara que trabalha em um banco, com uma vida meio triste. Todos à sua volta, parecem tentar tirar proveito. A situação dele muda quando, ao tentar salvar o que ele pensa ser uma pessoa se afogando, encontra um objeto brilhando que lhe fornece poderes.</p>
       </div>
-      
-      
+            
 </div>
 <div style="margin:10px 0">
     <h3 align="center">AULA 02 - GPT NO SEU TRABALHO: FLUXO E DADOS</h3>
     <h4>DESAFIOS:</h4>
     <p><strong>Crie 10 críticas variadas para filmes: </strong>Peça ao ChatGPT para gerar 10 críticas variadas para outro filme. Em seguida, solicite que ele converta essas respostas para o formato CSV, copie esses valores e salve-os em um arquivo de texto (.txt). Depois disso, abra o Google Sheets, crie uma nova planilha e importe o arquivo .txt (em "Arquivo -> Importar -> Fazer upload"). Ao fazer essa importação, pode ocorrer um erro se o Google Sheets confundir as vírgulas de separação com vírgulas presentes no texto. Caso ocorra algum erro, peça ao ChatGPT para corrigi-lo.</p>
   
-  <div><img src="" width="100%"></div>
-  <p><strong>Minhas impressões: </strong></p>
+  <div>
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/4dd1b23b-d98d-48c2-8d39-0534eb111f00" width="45%">
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/018f3bab-497d-455f-9cd2-f832ebe37754" width="45%">
+  </div>
+  <p><strong>Minhas impressões: </strong>No início, solicitei ao ChatGPT que elaborasse uma lista dos cinco melhores filmes do ano de 2019, sem a inclusão de quaisquer critérios adicionais além do ano. É importante ressaltar que essa solicitação foi feita considerando que sua base de conhecimento foi atualizada até o ano de 2021.</p>
+  <p>Posteriormente, solicitei a criação de uma lista contendo 10 críticas do filme "Joker", com base nos parâmetros do formato que deveriam ser seguidos.</p>
+
+   <div>
+    <img src="" width="45%">
+    <img src="" width="45%">
+  </div>
+  
+
+
+
   
    <p><strong>Sugira descrições de imagens para serem inseridas em outras IA's: </strong>Utilize o ChatGPT para sugerir descrições de imagens que possam ser inseridas em outras inteligências artificiais, como o Stable Diffusion. Peça ao ChatGPT para criar 5 descrições de imagens com estilos diferentes, a fim de explorar essa combinação entre o ChatGPT e o Stable Diffusion.</p>
 
