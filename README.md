@@ -35,4 +35,31 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
         👨
         <p>É um filme antigo sobre a vida de um cara que trabalha em um banco, com uma vida meio triste. Todos à sua volta, parecem tentar tirar proveito. A situação dele muda quando, ao tentar salvar o que ele pensa ser uma pessoa se afogando, encontra um objeto brilhando que lhe fornece poderes.</p>
       </div>
+      
+      
 </div>
+<div style="margin:10px 0">
+    <h3 align="center">AULA 02 - GPT NO SEU TRABALHO: FLUXO E DADOS</h3>
+    <h4>DESAFIOS:</h4>
+    <p><strong>Crie 10 críticas variadas para filmes: </strong>Peça ao ChatGPT para gerar 10 críticas variadas para outro filme. Em seguida, solicite que ele converta essas respostas para o formato CSV, copie esses valores e salve-os em um arquivo de texto (.txt). Depois disso, abra o Google Sheets, crie uma nova planilha e importe o arquivo .txt (em "Arquivo -> Importar -> Fazer upload"). Ao fazer essa importação, pode ocorrer um erro se o Google Sheets confundir as vírgulas de separação com vírgulas presentes no texto. Caso ocorra algum erro, peça ao ChatGPT para corrigi-lo.</p>
+  
+  <div><img src="" width="100%"></div>
+  <p><strong>Minhas impressões: </strong></p>
+  
+   <p><strong>Sugira descrições de imagens para serem inseridas em outras IA's: </strong>Utilize o ChatGPT para sugerir descrições de imagens que possam ser inseridas em outras inteligências artificiais, como o Stable Diffusion. Peça ao ChatGPT para criar 5 descrições de imagens com estilos diferentes, a fim de explorar essa combinação entre o ChatGPT e o Stable Diffusion.</p>
+
+   <div><img src="" width="100%"></div>
+    <p><strong>Minhas impressões: </strong></p>
+      
+</div>
+
+<div style="margin:10px 0">
+    <h3 align="center">AULA 00 - </h3>
+    <h4>DESAFIOS:</h4>
+    <p><strong>fddd: </strong>ddd</p>
+  
+  <div><img src="" width="100%"></div>
+  <p><strong>Minhas impressões: </strong></p>
+      
+</div>
+
