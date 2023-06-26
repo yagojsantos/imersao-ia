@@ -45,15 +45,19 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
   <div>
     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/4dd1b23b-d98d-48c2-8d39-0534eb111f00" width="45%">
     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/018f3bab-497d-455f-9cd2-f832ebe37754" width="45%">
+     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/1cbf285c-6274-4f07-8bbc-488589230eb9" width="80%">
   </div>
   <p><strong>Minhas impressões: </strong>No início, solicitei ao ChatGPT que elaborasse uma lista dos cinco melhores filmes do ano de 2019, sem a inclusão de quaisquer critérios adicionais além do ano. É importante ressaltar que essa solicitação foi feita considerando que sua base de conhecimento foi atualizada até o ano de 2021.</p>
-  <p>Posteriormente, solicitei a criação de uma lista contendo 10 críticas do filme "Joker", com base nos parâmetros do formato que deveriam ser seguidos.</p>
+  <p>Posteriormente, solicitei a elaboração de uma lista contendo 10 críticas do filme "Joker". No entanto, não forneci uma classificação específica a ser seguida.</p>
+    <p>Como resultado, o Chat criou um padrão utilizando os termos "Crítica" e "Favorável". Ao perceber isso, reformulei o meu comando e solicitei que a lista fosse refeita seguindo um padrão de formatação.</p>
 
    <div>
-    <img src="" width="45%">
-    <img src="" width="45%">
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/c38d18ba-d589-45ee-b01b-c52672370627" width="45%">
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/cf337415-f96f-402d-8bfa-a74bead3d6cb" width="45%">
   </div>
-  
+  <p>Para finalizar, solicitei que a lista fosse reformulada no formato CSV do Excel. Sem demora, o GPT recriou o texto, separando o conteúdo com vírgulas. Em seguida, copiei e salvei o texto em um documento Word para, posteriormente, importá-lo em uma planilha do Google Sheets.</p>
+  <p>Este desafio foi gratificante e, sem dúvida, será de grande utilidade no meu dia a dia profissional.</p>
+
 
 
 
