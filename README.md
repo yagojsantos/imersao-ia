@@ -76,8 +76,7 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
 <div>
     👨
   <p>Por favor, elabore cinco descrições distintas de imagens a serem utilizadas em outras inteligências artificiais.</p>
-         
-    🤖
+  🤖
   <p>Sure! Here are the translations of the descriptions into English:</p>
 
   Image Description 1:
