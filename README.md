@@ -58,15 +58,48 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
   <p>Para finalizar, solicitei que a lista fosse reformulada no formato CSV do Excel. Sem demora, o GPT recriou o texto, separando o conteúdo com vírgulas. Em seguida, copiei e salvei o texto em um documento Word para, posteriormente, importá-lo em uma planilha do Google Sheets.</p>
   <p>Este desafio foi gratificante e, sem dúvida, será de grande utilidade no meu dia a dia profissional.</p>
 
+  <hr>
+ 
+   <p><strong>Sugira descrições de imagens para serem inseridas em outras IA's: </strong>Utilize o ChatGPT para sugerir descrições de imagens que possam ser inseridas em outras inteligências artificiais, como o Stable Diffusion. Peça ao ChatGPT para criar 5 descrições de imagens com estilos diferentes, a fim de explorar essa combinação entre o ChatGPT e o <a href="https://stablediffusionweb.com/">Stable Diffusion.</a></p>
 
+   <div>
+     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/7a13772d-5b08-432a-9cc8-3a2cd50454c3" width="40%">
+     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/3ae954b2-edc5-4bd5-94e5-542c4ca80e82" width="40%">
+     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/4587e679-8c05-450c-90a4-892de0f33dd0" width="40%">
+     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/808251db-4f27-4b35-803d-ce611141e233" width="40%">
+     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/b3ff464a-b669-45c1-8570-cdd431ccde0a" width="80%">
+   </div>
+    <p><strong>Minhas impressões: </strong>Para cumprir o desafio proposto, redigi um comando com a máxima clareza possível. Em seguida, com o objetivo de obter melhores resultados na ferramenta Stable Diffusion, solicitei ao chat que transcrevesse a lista de descrições de imagens para o inglês.</p> 
+    <p>A primeira instrução foi a seguinte:</p>
+       <div>
+        👨
+        <p>Por favor, elabore cinco descrições distintas de imagens a serem utilizadas em outras inteligências artificiais.</p>
+         
+         🤖
+        <p>Sure! Here are the translations of the descriptions into English:</p>
 
+Image Description 1:
 
-  
-   <p><strong>Sugira descrições de imagens para serem inseridas em outras IA's: </strong>Utilize o ChatGPT para sugerir descrições de imagens que possam ser inseridas em outras inteligências artificiais, como o Stable Diffusion. Peça ao ChatGPT para criar 5 descrições de imagens com estilos diferentes, a fim de explorar essa combinação entre o ChatGPT e o Stable Diffusion.</p>
+<p>The image shows an orange sky on the horizon, reflecting in the calm waters of a tranquil lake. Distant mountains are shrouded in a gentle mist, creating a serene and peaceful atmosphere. Some trees are scattered along the lake's shore, with their branches delicately extending towards the water. The scene conveys a sense of harmony and tranquility.</p>
 
-   <div><img src="" width="100%"></div>
-    <p><strong>Minhas impressões: </strong></p>
-      
+Image Description 2:
+
+<p>In this image, we see a bustling market in a vibrant city. The street is filled with colorful stalls, with people walking between them. The aroma of different spices fills the air as vendors enthusiastically advertise their products. The facades of the buildings are adorned with vibrant paintings and eye-catching letters. There is a lively energy and a blend of cultures in this busy location.</p>
+
+Image Description 3:
+
+<p>The image depicts a snow-covered mountain landscape. At the top of one of the highest mountains, there is a picturesque cabin surrounded by pine trees. Smoke rises from the chimney, indicating that a fireplace is lit inside. The sun shines brightly in the blue sky, highlighting the snow-capped peaks and creating a striking contrast. It is an isolated and serene location, perfect for those seeking peace and tranquility.</p>
+
+Image Description 4:
+
+<p>In this image, we can see a white sandy beach bathed in crystal-clear and calm waters. Tall palm trees line the coast, providing shade for visitors. Colorful umbrellas are scattered on the beach, while people relax in beach chairs. The sky is partially cloudy, creating a soft light over the landscape. It is an inviting place to rest and enjoy nature.</p>
+
+Image Description 5:
+
+<p>The image shows a vast, green field where the wind gently sways rows of sunflowers. The blue sky is dotted with fluffy white clouds. In the distance, a small thatched-roof cottage is surrounded by a colorful garden. Butterflies flutter from flower to flower, while birds sing cheerfully in the trees. The scene conveys a sense of peace and renewal.</p>
+         
+</div>
+     
 </div>
 
 <div style="margin:10px 0">
