@@ -45,7 +45,7 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
   <div>
     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/4dd1b23b-d98d-48c2-8d39-0534eb111f00" width="45%">
     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/018f3bab-497d-455f-9cd2-f832ebe37754" width="45%">
-     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/1cbf285c-6274-4f07-8bbc-488589230eb9" width="80%">
+     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/1cbf285c-6274-4f07-8bbc-488589230eb9" width="90%">
   </div>
   <p><strong>Minhas impressões: </strong>No início, solicitei ao ChatGPT que elaborasse uma lista dos cinco melhores filmes do ano de 2019, sem a inclusão de quaisquer critérios adicionais além do ano. É importante ressaltar que essa solicitação foi feita considerando que sua base de conhecimento foi atualizada até o ano de 2021.</p>
   <p>Posteriormente, solicitei a elaboração de uma lista contendo 10 críticas do filme "Joker". No entanto, não forneci uma classificação específica a ser seguida.</p>
