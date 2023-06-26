@@ -45,13 +45,14 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
   <div>
     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/4dd1b23b-d98d-48c2-8d39-0534eb111f00" width="45%">
     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/018f3bab-497d-455f-9cd2-f832ebe37754" width="45%">
-     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/1cbf285c-6274-4f07-8bbc-488589230eb9" width="90%">
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/1cbf285c-6274-4f07-8bbc-488589230eb9" width="90%">
   </div>
+
   <p><strong>Minhas impressões: </strong>No início, solicitei ao ChatGPT que elaborasse uma lista dos cinco melhores filmes do ano de 2019, sem a inclusão de quaisquer critérios adicionais além do ano. É importante ressaltar que essa solicitação foi feita considerando que sua base de conhecimento foi atualizada até o ano de 2021.</p>
   <p>Posteriormente, solicitei a elaboração de uma lista contendo 10 críticas do filme "Joker". No entanto, não forneci uma classificação específica a ser seguida.</p>
-    <p>Como resultado, o Chat criou um padrão utilizando os termos "Crítica" e "Favorável". Ao perceber isso, reformulei o meu comando e solicitei que a lista fosse refeita seguindo um padrão de formatação.</p>
+  <p>Como resultado, o Chat criou um padrão utilizando os termos "Crítica" e "Favorável". Ao perceber isso, reformulei o meu comando e solicitei que a lista fosse refeita seguindo um padrão de formatação.</p>
 
-   <div>
+  <div>
     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/c38d18ba-d589-45ee-b01b-c52672370627" width="45%">
     <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/cf337415-f96f-402d-8bfa-a74bead3d6cb" width="45%">
   </div>
@@ -71,32 +72,33 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
    </div>
     <p><strong>Minhas impressões: </strong>Para cumprir o desafio proposto, redigi um comando com a máxima clareza possível. Em seguida, com o objetivo de obter melhores resultados na ferramenta Stable Diffusion, solicitei ao chat que transcrevesse a lista de descrições de imagens para o inglês.</p> 
     <p>A primeira instrução foi a seguinte:</p>
-       <div>
-        👨
-        <p>Por favor, elabore cinco descrições distintas de imagens a serem utilizadas em outras inteligências artificiais.</p>
+    
+<div>
+    👨
+  <p>Por favor, elabore cinco descrições distintas de imagens a serem utilizadas em outras inteligências artificiais.</p>
          
-         🤖
-        <p>Sure! Here are the translations of the descriptions into English:</p>
+    🤖
+  <p>Sure! Here are the translations of the descriptions into English:</p>
 
-Image Description 1:
+  Image Description 1:
 
-<p>The image shows an orange sky on the horizon, reflecting in the calm waters of a tranquil lake. Distant mountains are shrouded in a gentle mist, creating a serene and peaceful atmosphere. Some trees are scattered along the lake's shore, with their branches delicately extending towards the water. The scene conveys a sense of harmony and tranquility.</p>
+  <p>The image shows an orange sky on the horizon, reflecting in the calm waters of a tranquil lake. Distant mountains are shrouded in a gentle mist, creating a serene and peaceful atmosphere. Some trees are scattered along the lake's shore, with their branches delicately extending towards the water. The scene conveys a sense of harmony and tranquility.</p>
 
-Image Description 2:
+  Image Description 2:
 
-<p>In this image, we see a bustling market in a vibrant city. The street is filled with colorful stalls, with people walking between them. The aroma of different spices fills the air as vendors enthusiastically advertise their products. The facades of the buildings are adorned with vibrant paintings and eye-catching letters. There is a lively energy and a blend of cultures in this busy location.</p>
+  <p>In this image, we see a bustling market in a vibrant city. The street is filled with colorful stalls, with people walking between them. The aroma of different spices fills the air as vendors enthusiastically advertise their products. The facades of the buildings are adorned with vibrant paintings and eye-catching letters. There is a lively energy and a blend of cultures in this busy location.</p>
 
-Image Description 3:
+  Image Description 3:
 
-<p>The image depicts a snow-covered mountain landscape. At the top of one of the highest mountains, there is a picturesque cabin surrounded by pine trees. Smoke rises from the chimney, indicating that a fireplace is lit inside. The sun shines brightly in the blue sky, highlighting the snow-capped peaks and creating a striking contrast. It is an isolated and serene location, perfect for those seeking peace and tranquility.</p>
+  <p>The image depicts a snow-covered mountain landscape. At the top of one of the highest mountains, there is a picturesque cabin surrounded by pine trees. Smoke rises from the chimney, indicating that a fireplace is lit inside. The sun shines brightly in the blue sky, highlighting the snow-capped peaks and creating a striking contrast. It is an isolated and serene location, perfect for those seeking peace and tranquility.</p>
 
-Image Description 4:
+  Image Description 4:
 
-<p>In this image, we can see a white sandy beach bathed in crystal-clear and calm waters. Tall palm trees line the coast, providing shade for visitors. Colorful umbrellas are scattered on the beach, while people relax in beach chairs. The sky is partially cloudy, creating a soft light over the landscape. It is an inviting place to rest and enjoy nature.</p>
+  <p>In this image, we can see a white sandy beach bathed in crystal-clear and calm waters. Tall palm trees line the coast, providing shade for visitors. Colorful umbrellas are scattered on the beach, while people relax in beach chairs. The sky is partially cloudy, creating a soft light over the landscape. It is an inviting place to rest and enjoy nature.</p>
 
-Image Description 5:
+  Image Description 5:
 
-<p>The image shows a vast, green field where the wind gently sways rows of sunflowers. The blue sky is dotted with fluffy white clouds. In the distance, a small thatched-roof cottage is surrounded by a colorful garden. Butterflies flutter from flower to flower, while birds sing cheerfully in the trees. The scene conveys a sense of peace and renewal.</p>
+  <p>The image shows a vast, green field where the wind gently sways rows of sunflowers. The blue sky is dotted with fluffy white clouds. In the distance, a small thatched-roof cottage is surrounded by a colorful garden. Butterflies flutter from flower to flower, while birds sing cheerfully in the trees. The scene conveys a sense of peace and renewal.</p>
          
 </div>
      
