@@ -100,7 +100,23 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
   <p>The image shows a vast, green field where the wind gently sways rows of sunflowers. The blue sky is dotted with fluffy white clouds. In the distance, a small thatched-roof cottage is surrounded by a colorful garden. Butterflies flutter from flower to flower, while birds sing cheerfully in the trees. The scene conveys a sense of peace and renewal.</p>
          
 </div>
-     
+
+<hr>
+ 
+   <p><strong>Calcule a média salarial de pessoas com o Google Sheets e o ChatGPT: </strong>Usando a função GPT_LIST() do SheetGPT, gere 20 nomes de pessoas brasileiras na coluna A, a área de atuação dessas pessoas (como "Marketing", "TI", "Direito" ou "Saúde") na coluna B e 20 valores aleatórios de salário entre 1.000 e 20.000 na coluna C. Agora, peça ao ChatGPT para criar uma macro para o Google Sheets que calcule a média desses salários e mostre a resposta na célula D2.</p>
+   
+ <div>
+   <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/af9f6204-a6bb-4235-94b1-bdd3bf06858a" width="45%">
+   <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/61255551-e840-4144-9816-133f54869241" width="45%">
+ </div>
+ <p><strong>Minhas impressões: </strong>A atividade realizada foi de fácil execução e baseou-se no uso da fórmula GPTLIST do Google Sheets, juntamente com a extensão SheetGPT, para elaborar listas com valores randômicos. Além disso, solicitei ao Chat GPT que criasse uma fórmula para calcular a média de uma lista de valores.</p>
+ 
+<p>Ao utilizar a fórmula GPTLIST com a extensão SheetGPT, pude facilmente gerar uma lista de valores aleatórios em uma planilha do Google Sheets. Essa função permite especificar o tamanho da lista e o intervalo de valores desejado.</p>
+
+<p>Em seguida, para calcular a média dos valores dessa lista, o Chat GPT gentilmente me forneceu a fórmula básica "=AVERAGE(range)", onde "range" representa o intervalo de células que contém os valores a serem calculados. Essa fórmula é simples de usar e me permitiu obter o resultado da média com facilidade.</p>
+
+<p>No geral, a atividade de utilizar a fórmula GPTLIST com a extensão SheetGPT e solicitar ao Chat GPT a criação de uma fórmula para calcular a média de uma lista de valores foi de fácil execução. Essas ferramentas tornaram o processo mais eficiente e me permitiram obter resultados precisos de forma rápida.</p>
+
 </div>
 
 <div style="margin:10px 0">
@@ -108,7 +124,7 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
     <h4>DESAFIOS:</h4>
     <p><strong>fddd: </strong>ddd</p>
   
-  <div><img src="" width="100%"></div>
+ 
   <p><strong>Minhas impressões: </strong></p>
       
 </div>
