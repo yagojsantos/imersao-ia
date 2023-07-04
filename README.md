@@ -120,6 +120,27 @@ Imersão da plataforma Alura voltada para aqueles que possuem pouco ou nenhum co
 </div>
 
 <div style="margin:10px 0">
+    <h3 align="center">AULA 03 - Engenharia de Prompt para Tarefas Complexas</h3>
+    <h4>DESAFIOS:</h4>
+    <p><strong>Explorando as respostas do ChatGPT: </strong>Teste as respostas do ChatGPT quando você faz perguntas curtas, sem dar exemplos, e quando você elabora mais a pergunta, fornecendo um ou mais exemplos.</p>
+  <div>
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/39f7b2bb-5251-4a73-ac90-cc88e9ef76f2" width="45%">
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/94f05c40-8cd4-4e8c-b530-fdc1c36e765b" width="45%">
+   </div>
+ 
+  <p><strong>Minhas impressões: </strong>Este desafio foi bem simples, mas é possível notar a diferença entre apenas fazer uma pergunta solta e elaborar uma questão com mais descrição e exemplo. Na questão elaborada, o chat devolve uma resposta mais assertiva e criteriosa, como deveria ser. Em resumo, podemos dizer que quanto melhor a instrução, melhor o retorno.</p>
+
+<hr>
+<p><strong>Calculando Imposto com ChatGPT: Cadeia de Raciocínio e Valores da Planilha: </strong>Utilize a lista de valores da planilha e o método Chain-of-Thought (Cadeia de raciocínio) no ChatGPT para obter o cálculo do valor do imposto a ser arrecadado. Considere que pessoas com rendimento de até R$20.000,00 pagam 10% de imposto, pessoas com rendimento entre R$20.000,00 e R$40.000,00 pagam 20% de imposto, e pessoas com rendimento acima de R$40.000,00 pagam 30% de imposto.</p>
+
+  <div>
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/1a76c32e-6e6c-45fb-bda2-c7d59112a6b7" width="45%" height="400px">
+    <img src="https://github.com/yagojsantos/imersao-ia/assets/119305146/98ae86f3-cd15-4c9b-b8b1-2814e54e7f25" width="48%">
+   </div>
+ <p><strong>Minhas impressões: </strong>Esse foi um desafio mais complexo. Elaborar uma linha de raciocínio com a preocupação de ser o mais claro e simples possível, me tomou um tempo razoável, porém o resultado foi aceitável. Notei que o chat gerou um parágrafo a mais do que o exemplo, com a finalidade de exemplificar a soma de todas as porcentagens calculadas anteriormente. Acredito que isso tenha sido o resultado de uma falha em meu exemplo.</p>
+      
+</div>
+<div style="margin:10px 0">
     <h3 align="center">AULA 00 - </h3>
     <h4>DESAFIOS:</h4>
     <p><strong>fddd: </strong>ddd</p>
